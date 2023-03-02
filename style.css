@@ -20,3 +20,8 @@ header {
 .h6 {
   line-height: normal !important;
 }
+
+.form {
+  background-color: #6070ff;
+  
+}
