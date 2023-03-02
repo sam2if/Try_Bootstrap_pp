@@ -1,5 +1,22 @@
+body {
+  background-color: #dfe1e6;
+}
+
+header {
+  height: 100vh;
+  border-bottom-left-radius: 100px;
+}
 .header-details {
   background-image: url(/assets/Headerbg.png);
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.work-container {
+  background: #fff;
+  border-radius: 30px;
+}
+
+.h6 {
+  line-height: normal !important;
 }
